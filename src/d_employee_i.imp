@@ -1,0 +1,26 @@
+/* d_employee
+ * Author: Szegedi Gábor D071PO
+ * Creation date: 2018-07-03
+ */
+IMPLEMENTATION
+    d_employee_i
+
+REFINES
+    d_employee_i
+    
+DEFINITIONS
+    "definitions.def"
+    
+IMPORTS
+    e_ui
+    
+CONCRETE_VARIABLES
+    
+INVARIANT
+    
+INITIALISATION
+    
+OPERATIONS
+ 
+END
+ 

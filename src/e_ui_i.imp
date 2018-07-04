@@ -1,0 +1,10 @@
+/* e_ui_i
+ * Author: Szegedi Gábor D071PO
+ * Creation date: 2018-07-03
+ */
+
+IMPLEMENTATION e_ui_i
+REFINES e_ui
+
+
+ END

@@ -1,0 +1,18 @@
+DEFINITIONS
+employeeMax == 1000;
+rangeMin == -1000;
+rangeMax == 1000;
+minReturnCount == 4;
+minProfitThreshold == 500;
+year == 2018;
+ageMin == 18;
+ageMax == 100;
+kidsMin == 0;
+kidsMax == 10;
+salaryMin == 138000 ;
+salaryMax == 10000000;
+holidayMin == 20;
+holidayMax == 30;
+holidayAfterKidsMin == 0;
+holidayAfterKidsMax == 7;
+taxRate == 0.3

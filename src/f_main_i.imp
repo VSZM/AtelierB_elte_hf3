@@ -1,0 +1,25 @@
+/* f_main_i
+ * Author: Szegedi Gábor D071PO
+ * Creation date: 2018-07-03
+ */
+
+IMPLEMENTATION
+	f_main_i
+REFINES
+    f_main
+    
+IMPORTS
+	d_employee
+
+OPERATIONS
+   main_method =
+   BEGIN
+       d_init;
+       read_employees;
+       calc_net;
+       calc_holiday;
+       calc_ratio;
+       write_result
+   END
+   
+END
